@@ -1,0 +1,144 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Last Adventure",
+            "genre": "Action/Adventure",
+            "duration": "2h 15m",
+            "rating": "PG-13",
+            "description": "An epic journey through uncharted territories.",
+            "director": "Alex Rivera",
+            "cast": [
+                "Chris Evans",
+                "Zendaya",
+                "Idris Elba"
+            ],
+            "imdb": 7.8,
+            "popularity": 95,
+            "showtimes": [
+                "10:00 AM",
+                "1:30 PM",
+                "4:00 PM",
+                "6:30 PM",
+                "9:00 PM"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Cosmic Dreams",
+            "genre": "Sci-Fi",
+            "duration": "2h 30m",
+            "rating": "PG",
+            "description": "A mind-bending journey through space and time.",
+            "director": "Lisa Chen",
+            "cast": [
+                "Tom Hanks",
+                "Millie Bobby Brown",
+                "Keanu Reeves"
+            ],
+            "imdb": 8.2,
+            "popularity": 98,
+            "showtimes": [
+                "11:00 AM",
+                "2:30 PM",
+                "5:00 PM",
+                "8:30 PM"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Heartstrings",
+            "genre": "Romance/Drama",
+            "duration": "1h 50m",
+            "rating": "PG-13",
+            "description": "A love story that transcends time.",
+            "director": "Sophia Lee",
+            "cast": [
+                "Emma Stone",
+                "Timoth\u00e9e Chalamet",
+                "Viola Davis"
+            ],
+            "imdb": 7.5,
+            "popularity": 88,
+            "showtimes": [
+                "12:00 PM",
+                "3:30 PM",
+                "7:00 PM",
+                "10:00 PM"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Midnight Mystery",
+            "genre": "Thriller/Mystery",
+            "duration": "2h 5m",
+            "rating": "R",
+            "description": "A detective races against time to solve a century-old mystery.",
+            "director": "James Nolan",
+            "cast": [
+                "Daniel Craig",
+                "Ana de Armas",
+                "Anthony Hopkins"
+            ],
+            "imdb": 8.0,
+            "popularity": 92,
+            "showtimes": [
+                "1:00 PM",
+                "4:30 PM",
+                "9:00 PM"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Laugh Out Loud",
+            "genre": "Comedy",
+            "duration": "1h 45m",
+            "rating": "PG",
+            "description": "The funniest movie of the year!",
+            "director": "Kevin Hart",
+            "cast": [
+                "Ryan Reynolds",
+                "Tiffany Haddish",
+                "Jack Black"
+            ],
+            "imdb": 6.9,
+            "popularity": 85,
+            "showtimes": [
+                "10:30 AM",
+                "2:00 PM",
+                "5:30 PM",
+                "9:30 PM"
+            ]
+        }
+    ],
+    "theaters": [
+        {
+            "id": 1,
+            "name": "City Center Cinemas",
+            "location": "Downtown",
+            "vip": true,
+            "popularity": 95
+        },
+        {
+            "id": 2,
+            "name": "Starlight Theater",
+            "location": "Westside Mall",
+            "vip": true,
+            "popularity": 88
+        },
+        {
+            "id": 3,
+            "name": "Grand Arena",
+            "location": "Eastgate Complex",
+            "vip": false,
+            "popularity": 82
+        },
+        {
+            "id": 4,
+            "name": "Royal IMAX",
+            "location": "North Plaza",
+            "vip": true,
+            "popularity": 92
+        }
+    ]
+}
